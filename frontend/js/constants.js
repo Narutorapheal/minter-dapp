@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the StickyBirds NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The StickyBirds NFT Project is a decentralized, open-source project that aims to encourage everyone to showcase their crypto lifestlyes.';
+const welcome_p = 'The StickyBirds NFT Project is a decentralized, open-source project that aims to encourage everyone to showcase their crypto lifestlyes.<br>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Fair Mint, No Presale!! 💪";
 const h1_public_mint = "Public Minting Open!!";
